@@ -1,0 +1,146 @@
+{
+  "retcode": 0,
+  "message": "OK",
+  "data": {
+    "area_list": [
+      {
+        "area_id": 1,
+        "status": "upgraded",
+        "max_star": 3,
+        "need_coin": 1,
+        "played": true,
+        "play_progress": "has_played"
+      },
+      {
+        "area_id": 2,
+        "status": "upgraded",
+        "max_star": 3,
+        "need_coin": 1,
+        "played": true,
+        "play_progress": "has_played"
+      },
+      {
+        "area_id": 3,
+        "status": "upgraded",
+        "max_star": 3,
+        "need_coin": 1,
+        "played": true,
+        "play_progress": "has_played"
+      },
+      {
+        "area_id": 4,
+        "status": "upgraded",
+        "max_star": 3,
+        "need_coin": 1,
+        "played": true,
+        "play_progress": "has_played"
+      },
+      {
+        "area_id": 5,
+        "status": "upgraded",
+        "max_star": 3,
+        "need_coin": 0,
+        "played": false,
+        "play_progress": "not_played"
+      }
+    ],
+    "unlocked_achievements": [11, 12, 13, 14, 15],
+    "task_list": [
+      {
+        "task_config_id": 1001,
+        "task_status": "claimed",
+        "current_progress": 1,
+        "total_progress": 1
+      },
+      {
+        "task_config_id": 1002,
+        "task_status": "claimed",
+        "current_progress": 450,
+        "total_progress": 450
+      },
+      {
+        "task_config_id": 1003,
+        "task_status": "claimed",
+        "current_progress": 120,
+        "total_progress": 120
+      }
+    ],
+    "award_list": [
+      {
+        "task_config_id": 2001,
+        "task_status": "claimed",
+        "current_progress": 1,
+        "total_progress": 1
+      },
+      {
+        "task_config_id": 2002,
+        "task_status": "claimed",
+        "current_progress": 2,
+        "total_progress": 2
+      },
+      {
+        "task_config_id": 2003,
+        "task_status": "claimed",
+        "current_progress": 3,
+        "total_progress": 3
+      },
+      {
+        "task_config_id": 2004,
+        "task_status": "claimed",
+        "current_progress": 4,
+        "total_progress": 4
+      },
+      {
+        "task_config_id": 2005,
+        "task_status": "claimed",
+        "current_progress": 4,
+        "total_progress": 4
+      },
+      {
+        "task_config_id": 2006,
+        "task_status": "claimed",
+        "current_progress": 1,
+        "total_progress": 1
+      },
+      {
+        "task_config_id": 2007,
+        "task_status": "claimed",
+        "current_progress": 2,
+        "total_progress": 2
+      },
+      {
+        "task_config_id": 2008,
+        "task_status": "claimed",
+        "current_progress": 3,
+        "total_progress": 3
+      },
+      {
+        "task_config_id": 2009,
+        "task_status": "claimed",
+        "current_progress": 4,
+        "total_progress": 4
+      },
+      {
+        "task_config_id": 2010,
+        "task_status": "claimed",
+        "current_progress": 4,
+        "total_progress": 4
+      },
+      {
+        "task_config_id": 2011,
+        "task_status": "claimed",
+        "current_progress": 4,
+        "total_progress": 4
+      },
+      {
+        "task_config_id": 2012,
+        "task_status": "claimed",
+        "current_progress": 1,
+        "total_progress": 1
+      }
+    ],
+    "coin": 2,
+    "finish_tutorial": true,
+    "finish_plot": true
+  }
+}
